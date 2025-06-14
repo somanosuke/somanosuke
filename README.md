@@ -1,6 +1,6 @@
 English
 - 👋 Hello,world!
-- 🌱 I’m currently learning C++ and HSP
+- 🌱 I’m currently learning WebApp and Competitive programming !
 
 <img src="frieren-blow-kiss-cut.gif"> 
 <!---
